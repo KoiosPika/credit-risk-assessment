@@ -1,5 +1,7 @@
 pandas
 scikit-learn
 flask
+flask_cors
 joblib
 pyyaml
+boto3
